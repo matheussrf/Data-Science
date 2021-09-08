@@ -16,5 +16,4 @@ Amante da música, e um Cientista de Dados que adora colocar a mão na massa des
 ## Projetos pessoais:
 Aqui você encontra os notebooks dos meus projetos na área de Data Visualization, Data Analysis e Machine Learning.
 
-* **Machine Learning para prever se uma pessoa recebe mais de 50K (dólares) no ano:** https://bit.ly/39edTmM
-
+* **Machine Learning para prever se uma pessoa recebe mais de 50K (dólares) no ano:** 
