@@ -10,4 +10,4 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Análise exploratória
 - [x] Transformacão 
-- [x] Criação dos modelos de ML
+- [] Criação dos modelos de ML
