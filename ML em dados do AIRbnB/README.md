@@ -1,5 +1,5 @@
 # Predições sobre dados de moradia no AIRbnB 
-Acesse o projeto aqui -> [Link](https://github.com/matheussrf/Data-Science/blob/main/ML%20em%20dados%20do%20RbnB/ML%20em%20dados%20do%20RbnB.ipynb)
+Acesse o projeto aqui -> [Link](https://github.com/matheussrf/Data-Science/blob/main/ML%20em%20dados%20do%20AIRbnB/ML%20em%20dados%20do%20AIRbnB.ipynb)
 
 
 > Usando dados do RbnB para prever se o tipo de aluguel do imóvel.
