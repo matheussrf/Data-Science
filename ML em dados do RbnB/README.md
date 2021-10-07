@@ -1,4 +1,4 @@
-# Predições sobre dados de moradia no RbnB 
+# Predições sobre dados de moradia no AIRbnB 
 Acesse o projeto aqui -> [Link](https://github.com/matheussrf/Data-Science/blob/main/ML%20em%20dados%20do%20RbnB/ML%20em%20dados%20do%20RbnB.ipynb)
 
 
